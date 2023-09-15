@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header,
+footer {
+  width: 100%;
+  height: 120px;
+  background-color: #d0bdf4;
+  color: white;
+}
+h1,
+h2 {
+  text-align: center;
+}
+img {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  padding-left: 40px;
+  font-size: 20px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+}
+.card {
+  width: 80%;
+  margin: 40px auto;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
